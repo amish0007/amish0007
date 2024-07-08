@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Android_Core**
 
-- 💬 Ask me about **C,C++,Java**
+- 💬 Ask me about **C,C++,Java,Kotlin**
 
 - 📫 How to reach me **shingalaamish112@gmail.com**
 
